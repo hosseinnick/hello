@@ -1,2 +1,3 @@
 some text 
 some edit in master branch from remote repository
+edit again in local
